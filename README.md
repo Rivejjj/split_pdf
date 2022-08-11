@@ -1,5 +1,12 @@
-Divide pages of a pdf into two and arrange them one after the other.
+Divide pages of a pdf into two and arrange them one after the other. 
+Both the program and the pdf file must be in the same folder.
+
+Run by console using: *python3 split.py file_name.pdf*  
+Creates a new file called nuevo.pdf. 
+
+
 Using pdfrw: https://github.com/pmaupin/pdfrw#file-reading-tokenization-and-parsing
+
 
 ![image](https://user-images.githubusercontent.com/77376705/184225326-9385546e-f2c4-4187-8201-dd069a74415f.png)
 
