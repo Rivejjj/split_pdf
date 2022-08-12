@@ -1,9 +1,9 @@
 Divide pages of a pdf into two and arrange them one after the other. 
-Both the program and the pdf file must be in the same folder.
 
-Run by console using: *python3 split.py file_name.pdf*  
-Creates a new file called nuevo.pdf. 
-
+It can be used by simply running the .exe file and specifying the pdf name.
+Both the executable and the pdf file must be in the same folder.
+Creates a new file called new_{file name}.pdf. 
+You can also download the source code to check it out!
 
 Using pdfrw: https://github.com/pmaupin/pdfrw#file-reading-tokenization-and-parsing
 
